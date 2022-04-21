@@ -32,7 +32,7 @@ Je leert hoe je de (percieved) performance van een bestaande website kan verbete
     </tr>
     <tr>
         <td>Dinsdag, woensdag of donderdag</td>
-        <td>5 april</td>
+        <td>11 mei</td>
         <td>13:00 uur *</td>
         <td>Feedbacksessie</td>
     </tr>
@@ -41,7 +41,7 @@ Je leert hoe je de (percieved) performance van een bestaande website kan verbete
     </tr>
     <tr>
         <td>Donderdag</td>
-        <td>14 april</td>
+        <td>18 mei</td>
         <td>13:00 uur *</td>
         <td>Oplevering</td>
     </tr>
