@@ -13,7 +13,7 @@ De web-applicatie bestaat uit drie delen: meetinstrument (quizvragen), de databa
 In dit project optimaliseer je de performance van de Reflect for Effect web-app. 
 
 ## Doel van deze opdracht
-Je leert hoe je een prototype maakt op basis van een user story en externe data uit een API.
+Je leert hoe je de (percieved) performance van een bestaande website kan verbeteren.
 
 ## Planning
 
